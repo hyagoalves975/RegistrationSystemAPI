@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\services\\ivaccinationstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\services\\ivaccinationstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\controllers\\vaccinationstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\controllers\\vaccinationstationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\controllers\\vaccinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\controllers\\vaccinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\services\\vaccinationstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\services\\vaccinationstationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\repositories\\vaccinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\repositories\\vaccinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\data\\sidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\data\\sidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\models\\vaccinationstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\models\\vaccinationstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\repositories\\vaccinationstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\repositories\\vaccinationstationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|c:\\users\\hyago alves\\source\\repos\\registrationsystem\\registrationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|RegistrationSystem\\RegistrationSystem.csproj|solutionrelative:registrationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VaccinationStationController.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Controllers\\VaccinationStationController.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Controllers\\VaccinationStationController.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Controllers\\VaccinationStationController.cs",
+              "RelativeToolTip": "RegistrationSystem\\Controllers\\VaccinationStationController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:20:17.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaccineController.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Controllers\\VaccineController.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Controllers\\VaccineController.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Controllers\\VaccineController.cs",
+              "RelativeToolTip": "RegistrationSystem\\Controllers\\VaccineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:17:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VaccinationStationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Services\\VaccinationStationService.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Services\\VaccinationStationService.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Services\\VaccinationStationService.cs",
+              "RelativeToolTip": "RegistrationSystem\\Services\\VaccinationStationService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:10:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVaccinationStationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Services\\IVaccinationStationService.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Services\\IVaccinationStationService.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Services\\IVaccinationStationService.cs",
+              "RelativeToolTip": "RegistrationSystem\\Services\\IVaccinationStationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:10:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaccineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Repositories\\VaccineRepository.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Repositories\\VaccineRepository.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Repositories\\VaccineRepository.cs",
+              "RelativeToolTip": "RegistrationSystem\\Repositories\\VaccineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:09:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240625190510_CreateTableDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs",
+              "RelativeToolTip": "RegistrationSystem\\Migrations\\20240625190510_CreateTableDatabase.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:05:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaccinationStationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Repositories\\VaccinationStationRepository.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Repositories\\VaccinationStationRepository.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Repositories\\VaccinationStationRepository.cs",
+              "RelativeToolTip": "RegistrationSystem\\Repositories\\VaccinationStationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:50:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Data\\SIDbContext.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Data\\SIDbContext.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Data\\SIDbContext.cs",
+              "RelativeToolTip": "RegistrationSystem\\Data\\SIDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:23:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\appsettings.json",
+              "RelativeToolTip": "RegistrationSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T12:03:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Program.cs",
+              "RelativeToolTip": "RegistrationSystem\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:02:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Models\\Vaccine.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Models\\Vaccine.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Models\\Vaccine.cs",
+              "RelativeToolTip": "RegistrationSystem\\Models\\Vaccine.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:02:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VaccinationStation.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Models\\VaccinationStation.cs",
+              "RelativeDocumentMoniker": "RegistrationSystem\\Models\\VaccinationStation.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\Models\\VaccinationStation.cs",
+              "RelativeToolTip": "RegistrationSystem\\Models\\VaccinationStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:02:26.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

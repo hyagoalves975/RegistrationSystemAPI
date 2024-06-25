@@ -1,0 +1,70 @@
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\appsettings.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.exe
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.deps.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.runtimeconfig.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Sistema de Cadastro.pdb
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.csproj.AssemblyReference.cache
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.AssemblyInfoInputs.cache
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.AssemblyInfo.cs
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets\msbuild.Sistema de Cadastro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets\msbuild.build.Sistema de Cadastro.props
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Cadastro.props
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sistema de Cadastro.props
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\scopedcss\bundle\Sistema de Cadastro.styles.css
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema .7CF0FB39.Up2Date
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\refint\Sistema de Cadastro.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.pdb
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\Sistema de Cadastro.genruntimeconfig.cache
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\net6.0\ref\Sistema de Cadastro.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hyago Alves\source\repos\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

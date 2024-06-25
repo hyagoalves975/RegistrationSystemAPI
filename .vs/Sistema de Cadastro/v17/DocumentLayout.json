@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|c:\\users\\hyago alves\\source\\repos\\sistema de cadastro\\sistema de cadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|solutionrelative:sistema de cadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|c:\\users\\hyago alves\\source\\repos\\sistema de cadastro\\sistema de cadastro\\models\\vaccinationstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|solutionrelative:sistema de cadastro\\models\\vaccinationstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|c:\\users\\hyago alves\\source\\repos\\sistema de cadastro\\sistema de cadastro\\data\\sidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|solutionrelative:sistema de cadastro\\data\\sidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|c:\\users\\hyago alves\\source\\repos\\sistema de cadastro\\sistema de cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|solutionrelative:sistema de cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|c:\\users\\hyago alves\\source\\repos\\sistema de cadastro\\sistema de cadastro\\sistema de cadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{476E01DB-42FE-470B-B28F-3E1B640EBD31}|Sistema de Cadastro\\Sistema de Cadastro.csproj|solutionrelative:sistema de cadastro\\sistema de cadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240625032212_CreateTableVaccine.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs",
+              "RelativeToolTip": "Sistema de Cadastro\\Migrations\\20240625032212_CreateTableVaccine.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:22:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sistema de Cadastro",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Sistema de Cadastro.csproj",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\Sistema de Cadastro.csproj",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Sistema de Cadastro.csproj",
+              "RelativeToolTip": "Sistema de Cadastro\\Sistema de Cadastro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T02:43:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\Program.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Program.cs",
+              "RelativeToolTip": "Sistema de Cadastro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:05:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VaccinationStation.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Models\\VaccinationStation.cs",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\Models\\VaccinationStation.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Models\\VaccinationStation.cs",
+              "RelativeToolTip": "Sistema de Cadastro\\Models\\VaccinationStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:50:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Data\\SIDbContext.cs",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\Data\\SIDbContext.cs",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\Data\\SIDbContext.cs",
+              "RelativeToolTip": "Sistema de Cadastro\\Data\\SIDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:42:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema de Cadastro\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hyago Alves\\source\\repos\\Sistema de Cadastro\\Sistema de Cadastro\\appsettings.json",
+              "RelativeToolTip": "Sistema de Cadastro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T00:41:59.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
