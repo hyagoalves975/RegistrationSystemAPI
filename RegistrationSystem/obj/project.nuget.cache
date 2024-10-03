@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9u9E++qkCqQ=",
+  "dgSpecHash": "KeQQsf+wok4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj",
+  "projectFilePath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\RegistrationSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hyago Alves\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hyago Alves\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

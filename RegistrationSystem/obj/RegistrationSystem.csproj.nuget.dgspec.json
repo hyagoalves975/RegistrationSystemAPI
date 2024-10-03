@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj": {}
+    "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\RegistrationSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj": {
+    "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\RegistrationSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\RegistrationSystem.csproj",
         "projectName": "RegistrationSystem",
-        "projectPath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\RegistrationSystem.csproj",
+        "projectPath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\RegistrationSystem.csproj",
         "packagesPath": "C:\\Users\\Hyago Alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystem\\RegistrationSystem\\obj\\",
+        "outputPath": "C:\\Users\\Hyago Alves\\source\\repos\\RegistrationSystemAPI\\RegistrationSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hyago Alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
