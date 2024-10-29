@@ -1,16 +1,15 @@
 # Excluir pastas e arquivos de compilação
 bin/
 obj/
-.dll
-.exe
-.pdb
-.cache
-.msi
-.app
-.log
-.vspscc
-.vssscc
-
+*.dll
+*.exe
+*.pdb
+*.cache
+*.msi
+*.app
+*.log
+*.vspscc
+*.vssscc
 
 # Excluir arquivos de publicação
 publish/
